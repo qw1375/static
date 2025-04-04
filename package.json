@@ -2,7 +2,7 @@
   "name": "static",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "qw1375/static",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
